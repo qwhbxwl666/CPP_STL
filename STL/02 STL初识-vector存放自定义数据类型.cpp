@@ -67,7 +67,7 @@ void test04()
 }
 
 
-int main()
+int main2()
 {
 	test03();
 	test04();

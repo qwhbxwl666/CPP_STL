@@ -21,5 +21,8 @@
     <ClCompile Include="02 STL初识-vector存放自定义数据类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 STL初识-容器嵌套容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
