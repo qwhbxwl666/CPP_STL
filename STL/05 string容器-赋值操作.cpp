@@ -46,7 +46,7 @@ void test07()
 	cout << "str7 = " << str7 << endl;
 }
 
-int main()
+int main5()
 {
 	test07();
 
