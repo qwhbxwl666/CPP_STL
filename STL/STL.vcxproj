@@ -131,6 +131,7 @@
     <ClCompile Include="02 STL初识-vector存放自定义数据类型.cpp" />
     <ClCompile Include="03 STL初识-容器嵌套容器.cpp" />
     <ClCompile Include="04 string容器-构造函数.cpp" />
+    <ClCompile Include="05 string容器-赋值操作.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

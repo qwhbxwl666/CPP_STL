@@ -28,7 +28,7 @@ void test06()
 }
 
 
-int main()
+int main4()
 {
 	test06();
 
