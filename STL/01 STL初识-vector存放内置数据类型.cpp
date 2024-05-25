@@ -55,7 +55,7 @@ void test01()
 	cout << endl;
 }
 
-int main()
+int main1()
 {
 	test01();
 
