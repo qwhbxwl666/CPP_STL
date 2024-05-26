@@ -132,6 +132,12 @@
     <ClCompile Include="03 STL初识-容器嵌套容器.cpp" />
     <ClCompile Include="04 string容器-构造函数.cpp" />
     <ClCompile Include="05 string容器-赋值操作.cpp" />
+    <ClCompile Include="06 string容器-字符串拼接.cpp" />
+    <ClCompile Include="07 string容器-查找和替换.cpp" />
+    <ClCompile Include="08 string容器-字符串比较.cpp" />
+    <ClCompile Include="09 string-字符存取.cpp" />
+    <ClCompile Include="10 string-插入和删除.cpp" />
+    <ClCompile Include="11 string-子串.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
