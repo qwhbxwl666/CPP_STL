@@ -138,6 +138,13 @@
     <ClCompile Include="09 string-字符存取.cpp" />
     <ClCompile Include="10 string-插入和删除.cpp" />
     <ClCompile Include="11 string-子串.cpp" />
+    <ClCompile Include="12 vector构造函数.cpp" />
+    <ClCompile Include="13 vector赋值操作.cpp" />
+    <ClCompile Include="14 vector容量和大小.cpp" />
+    <ClCompile Include="15 vector插入和删除.cpp" />
+    <ClCompile Include="16 vector数据存取.cpp" />
+    <ClCompile Include="17 vector互换容器.cpp" />
+    <ClCompile Include="18 vector预留空间.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
