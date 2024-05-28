@@ -152,6 +152,7 @@
     <ClCompile Include="23 deque数据存取.cpp" />
     <ClCompile Include="24 deque排序.cpp" />
     <ClCompile Include="25 评委打分.cpp" />
+    <ClCompile Include="26 stack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
