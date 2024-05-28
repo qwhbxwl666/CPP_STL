@@ -17,7 +17,7 @@ void printList5(const list<int>& L)
 	cout << endl;
 }
 
-bool myCompare(int val1, int val2)
+bool myCompare1(int val1, int val2)
 {
 	return val1 > val2;
 }
@@ -40,7 +40,7 @@ void test39()
 	L.sort(); //默认的排序规则 从小到大
 	printList5(L);
 
-	L.sort(myCompare); //指定规则，从大到小
+	L.sort(myCompare1); //指定规则，从大到小
 	printList5(L);
 }
 

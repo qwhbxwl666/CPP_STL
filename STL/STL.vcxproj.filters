@@ -117,5 +117,26 @@
     <ClCompile Include="34 排序案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="35 set构造和赋值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36 set大小和交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37 set插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38 set查找和统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39 set和multiset区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40 pair对组创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41 set容器排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,7 +19,7 @@ public:
 	}
 };
 
-bool comparePerson(Person2& p1, Person2& p2)
+bool comparePerson1(Person2& p1, Person2& p2)
 {
 	if (p1.age == p2.age)
 	{
@@ -56,7 +56,7 @@ void test40()
 
 	cout << "-----------------------------------------" << endl;
 
-	L.sort(comparePerson);
+	L.sort(comparePerson1);
 
 	for (list<Person2>::iterator it = L.begin(); it != L.end(); it++)
 	{

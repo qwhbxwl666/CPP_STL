@@ -161,6 +161,13 @@
     <ClCompile Include="32 list数据存取.cpp" />
     <ClCompile Include="33 反转和排序.cpp" />
     <ClCompile Include="34 排序案例.cpp" />
+    <ClCompile Include="35 set构造和赋值.cpp" />
+    <ClCompile Include="36 set大小和交换.cpp" />
+    <ClCompile Include="37 set插入和删除.cpp" />
+    <ClCompile Include="38 set查找和统计.cpp" />
+    <ClCompile Include="39 set和multiset区别.cpp" />
+    <ClCompile Include="40 pair对组创建.cpp" />
+    <ClCompile Include="41 set容器排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
