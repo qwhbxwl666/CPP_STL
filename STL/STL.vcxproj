@@ -154,6 +154,13 @@
     <ClCompile Include="25 评委打分.cpp" />
     <ClCompile Include="26 stack.cpp" />
     <ClCompile Include="27 queue.cpp" />
+    <ClCompile Include="28 list构造函数.cpp" />
+    <ClCompile Include="29 list赋值和交换.cpp" />
+    <ClCompile Include="30 list大小操作.cpp" />
+    <ClCompile Include="31 list插入和删除.cpp" />
+    <ClCompile Include="32 list数据存取.cpp" />
+    <ClCompile Include="33 反转和排序.cpp" />
+    <ClCompile Include="34 排序案例.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

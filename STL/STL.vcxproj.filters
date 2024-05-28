@@ -96,5 +96,26 @@
     <ClCompile Include="27 queue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="28 list构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29 list赋值和交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30 list大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31 list插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32 list数据存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33 反转和排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34 排序案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
