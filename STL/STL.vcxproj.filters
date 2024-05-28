@@ -93,5 +93,8 @@
     <ClCompile Include="26 stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27 queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
