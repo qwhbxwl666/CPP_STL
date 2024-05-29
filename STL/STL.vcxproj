@@ -168,6 +168,12 @@
     <ClCompile Include="39 set和multiset区别.cpp" />
     <ClCompile Include="40 pair对组创建.cpp" />
     <ClCompile Include="41 set容器排序.cpp" />
+    <ClCompile Include="42 map构造和赋值.cpp" />
+    <ClCompile Include="43 map大小和交换.cpp" />
+    <ClCompile Include="44 map插入和删除.cpp" />
+    <ClCompile Include="45 map查找和统计.cpp" />
+    <ClCompile Include="46 map容器排序.cpp" />
+    <ClCompile Include="47 案例-员工分组.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

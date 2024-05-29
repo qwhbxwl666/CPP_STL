@@ -9,7 +9,7 @@ using namespace std;
 //对于自定义数据类型，set必须指定排序规则才可以插入数据
 
 //示例一 set存放内置数据类型
-class myCompare2
+class MyCompare1
 {
 public:
 	bool operator()(int v1, int v2) const
@@ -35,14 +35,14 @@ void test48()
 	cout << endl;
 
 	//指定排序规则
-	set<int, myCompare2> s2;
+	set<int, MyCompare1> s2;
 	s2.insert(10);
 	s2.insert(40);
 	s2.insert(20);
 	s2.insert(30);
 	s2.insert(50);
 
-	for (set<int, myCompare2>::iterator it = s2.begin(); it != s2.end(); it++)
+	for (set<int, MyCompare1>::iterator it = s2.begin(); it != s2.end(); it++)
 	{
 		cout << *it << " ";
 	}
