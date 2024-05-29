@@ -35,7 +35,7 @@ void test55()
 	}
 }
 
-int main47()
+int main46()
 {
 	test55();
 
