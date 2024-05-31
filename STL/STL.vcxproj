@@ -177,6 +177,9 @@
     <ClCompile Include="48 函数对象.cpp" />
     <ClCompile Include="49 一元谓词.cpp" />
     <ClCompile Include="50 二元谓词.cpp" />
+    <ClCompile Include="51 算术仿函数.cpp" />
+    <ClCompile Include="52 关系仿函数.cpp" />
+    <ClCompile Include="53 逻辑仿函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

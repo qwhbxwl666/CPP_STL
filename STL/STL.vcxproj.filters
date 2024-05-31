@@ -165,5 +165,14 @@
     <ClCompile Include="50 二元谓词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="51 算术仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52 关系仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53 逻辑仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
