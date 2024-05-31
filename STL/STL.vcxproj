@@ -180,6 +180,27 @@
     <ClCompile Include="51 算术仿函数.cpp" />
     <ClCompile Include="52 关系仿函数.cpp" />
     <ClCompile Include="53 逻辑仿函数.cpp" />
+    <ClCompile Include="54 遍历for_each.cpp" />
+    <ClCompile Include="55 遍历transform.cpp" />
+    <ClCompile Include="56 查找find.cpp" />
+    <ClCompile Include="57 查找find_if.cpp" />
+    <ClCompile Include="58 查找adjacent_find.cpp" />
+    <ClCompile Include="59 查找binary_search.cpp" />
+    <ClCompile Include="60 查找count.cpp" />
+    <ClCompile Include="61 查找count_if.cpp" />
+    <ClCompile Include="62 排序sort.cpp" />
+    <ClCompile Include="63 排序random_shuffle.cpp" />
+    <ClCompile Include="64 排序merge.cpp" />
+    <ClCompile Include="65 排序reverse.cpp" />
+    <ClCompile Include="66 拷贝和替换copy.cpp" />
+    <ClCompile Include="67 拷贝和替换replace.cpp" />
+    <ClCompile Include="68 拷贝和替换replace_if.cpp" />
+    <ClCompile Include="69 拷贝和替换swap.cpp" />
+    <ClCompile Include="70 算术生成accumulate.cpp" />
+    <ClCompile Include="71 算术生成fill.cpp" />
+    <ClCompile Include="72 集合算法 set_intersection.cpp" />
+    <ClCompile Include="73 集合算法 set_union.cpp" />
+    <ClCompile Include="74 集合算法 set_difference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

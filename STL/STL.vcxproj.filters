@@ -174,5 +174,68 @@
     <ClCompile Include="53 逻辑仿函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="54 遍历for_each.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55 遍历transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56 查找find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57 查找find_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58 查找adjacent_find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59 查找binary_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60 查找count.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61 查找count_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62 排序sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63 排序random_shuffle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64 排序merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65 排序reverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66 拷贝和替换copy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67 拷贝和替换replace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68 拷贝和替换replace_if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69 拷贝和替换swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70 算术生成accumulate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71 算术生成fill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72 集合算法 set_intersection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73 集合算法 set_union.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74 集合算法 set_difference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

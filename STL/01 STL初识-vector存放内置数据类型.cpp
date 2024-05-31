@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void myPrint(int val)
+void myPrint1(int val)
 {
 	cout << val << " ";
 }
@@ -45,7 +45,7 @@ void test01()
 
 	//第三种遍历方式
 	//使用STL提供标准算法 头文件algorithm
-	for_each(v.begin(), v.end(), myPrint);
+	for_each(v.begin(), v.end(), myPrint1);
 	cout << endl;
 
 	//第二种简化方式

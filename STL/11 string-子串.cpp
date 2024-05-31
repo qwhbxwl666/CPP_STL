@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-string substr(int pos = 0, int n = npos) const;`   //返回由pos开始的n个字符组成的字符串
+string substr(int pos = 0, int n = npos) const;		//返回由pos开始的n个字符组成的字符串
 */
 
 //子串

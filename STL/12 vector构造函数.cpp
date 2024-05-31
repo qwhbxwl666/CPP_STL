@@ -4,10 +4,10 @@
 using namespace std;
 
 /*
-* `vector<T> v;`               			//采用模板实现类实现，默认构造函数
-* `vector(v.begin(), v.end());`			//将v[begin(), end())区间中的元素拷贝给本身
-* `vector(n, elem);`                    //构造函数将n个elem拷贝给本身
-* `vector(const vector &vec);`          //拷贝构造函数
+* vector<T> v;               	//采用模板实现类实现，默认构造函数
+* vector(v.begin(), v.end());	//将v[begin(), end())区间中的元素拷贝给本身
+* vector(n, elem);				//构造函数将n个elem拷贝给本身
+* vector(const vector &vec);	//拷贝构造函数
 */
 
 void printVector1(vector<int>& v)

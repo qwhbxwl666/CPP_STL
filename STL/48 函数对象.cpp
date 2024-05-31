@@ -26,12 +26,12 @@ void test56()
 }
 
 //2、函数对象可以有自己的状态
-class MyPrint
+class MyPrint1
 {
 public:
 	int count; //内部自己的状态
 
-	MyPrint()
+	MyPrint1()
 	{
 		count = 0;
 	}
@@ -45,7 +45,7 @@ public:
 
 void test57()
 {
-	MyPrint myPrint;
+	MyPrint1 myPrint;
 	myPrint("hello world");
 	myPrint("hello world");
 	myPrint("hello world");
@@ -53,14 +53,14 @@ void test57()
 }
 
 //3、函数对象可以作为参数传递
-void doPrint(MyPrint& mp, string test)
+void doPrint(MyPrint1& mp, string test)
 {
 	mp(test);
 }
 
 void test58()
 {
-	MyPrint myprint;
+	MyPrint1 myprint;
 	doPrint(myprint, "hello C++");
 }
 

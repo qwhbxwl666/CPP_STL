@@ -4,10 +4,10 @@
 using namespace std;
 
 /*
-* deque<T>` deqT;                   //默认构造形式
-* deque(beg, end);                  //构造函数将[beg, end)区间中的元素拷贝给本身。
-* deque(n, elem);                   //构造函数将n个elem拷贝给本身。
-* deque(const deque &deq);			//拷贝构造函数
+* deque<T> deqT;			//默认构造形式
+* deque(beg, end);          //构造函数将[beg, end)区间中的元素拷贝给本身。
+* deque(n, elem);           //构造函数将n个elem拷贝给本身。
+* deque(const deque &deq);	//拷贝构造函数
 */
 
 void printDeque1(const deque<int>& d)
