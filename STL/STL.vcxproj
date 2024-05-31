@@ -175,6 +175,8 @@
     <ClCompile Include="46 map容器排序.cpp" />
     <ClCompile Include="47 案例-员工分组.cpp" />
     <ClCompile Include="48 函数对象.cpp" />
+    <ClCompile Include="49 一元谓词.cpp" />
+    <ClCompile Include="50 二元谓词.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -159,5 +159,11 @@
     <ClCompile Include="48 函数对象.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="49 一元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50 二元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
